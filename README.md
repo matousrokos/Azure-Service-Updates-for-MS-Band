@@ -9,11 +9,11 @@ Keep up with latest updates from Microsoft Azure! Have them as close as you can 
 This is a simple WebTile for your Microsoft Band. Tested on Microsoft Band 2 but it should work for first generation as well.
 Like it? Copy this to your phone browser:
 
-mshealth-webtile:///?action=download-manifest&url=https://github.com/matousrokos/Azure-Service-Updates-for-MS-Band/blob/master/AzureBandFeed.webtile
+mshealth-webtile:///?action=download-manifest&url=https://raw.githubusercontent.com/matousrokos/Azure-Service-Updates-for-MS-Band/master/AzureBandUpdates.webtile
 
 (dont forgot the *mshealth* part) 
 
-If link is not opening Health app, just [download WebTile](https://github.com/matousrokos/Azure-Service-Updates-for-MS-Band/blob/master/AzureBandFeed.webtile) to your phone and open it.
+If link is not opening Health app, just [download WebTile](https://raw.githubusercontent.com/matousrokos/Azure-Service-Updates-for-MS-Band/master/AzureBandUpdates.webtile) to your phone and open it.
 
 **Enjoy!**
 
