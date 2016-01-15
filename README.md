@@ -13,7 +13,7 @@ mshealth-webtile:///?action=download-manifest&url=https://github.com/matousrokos
 
 (dont forgot the *mshealth* part) 
 
-If you link is not opening Health app, just[download WebTile](https://github.com/matousrokos/Azure-Service-Updates-for-MS-Band/blob/master/AzureBandFeed.webtile) to your phone and open it.
+If link is not opening Health app, just[download WebTile](https://github.com/matousrokos/Azure-Service-Updates-for-MS-Band/blob/master/AzureBandFeed.webtile) to your phone and open it.
 
 **Enjoy!**
 
