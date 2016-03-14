@@ -1,0 +1,42 @@
+{
+  "manifestVersion": 1,
+  "name": "Azure Updates",
+  "description": "Latest updates from Microsoft Azure. ",
+  "version": 1,
+  "versionString": "1",
+  "author": "Matous Rokos - Azure MVP",
+  "organization": "Matous Rokos - Azure MVP",
+  "contactEmail": "matousrokos@outlook.com",
+  "tileIcon": {
+    "46": "icons/tileIcon.png"
+  },
+  "badgeIcon": {
+    "24": "icons/badgeIcon.png"
+  },
+  "refreshIntervalMinutes": 360,
+  "resources": [
+    {
+      "url": "https://azure.microsoft.com/en-us/updates/feed",
+      "style": "Feed",
+      "content": {
+        "title": "title"
+      }
+    }
+  ],
+  "pages": [
+    {
+      "layout": "MSBand_ScrollingText",
+      "condition": "true",
+      "textBindings": [
+        {
+          "elementId": "1",
+          "value": "Azure Updates"
+        },
+        {
+          "elementId": "2",
+          "value": "{{title}}"
+        }
+      ]
+    }
+  ]
+}
